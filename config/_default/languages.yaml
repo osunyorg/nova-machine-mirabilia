@@ -6,6 +6,7 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    posts: /posts/:year-:month-:day-:slug/
   taxonomies:
     administrator: administrators
     author: authors
