@@ -5,4 +5,8 @@ items:
   target: "/posts/"
   kind: page
   children: []
+- title: About
+  target: "/about/"
+  kind: page
+  children: []
 
