@@ -5,4 +5,5 @@ items:
   target: "/about/"
   kind: page
   children: []
+  file: content/en/pages/about/_index.html
 
