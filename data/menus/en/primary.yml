@@ -4,6 +4,7 @@ items:
 - title: About
   target: "/about/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
