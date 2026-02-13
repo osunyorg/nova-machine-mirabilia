@@ -2,10 +2,12 @@
 title: Main menu
 items:
 - title: About
+  slug: about
   target: "/about/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/about"
   file: content/en/pages/about/_index.html
 
