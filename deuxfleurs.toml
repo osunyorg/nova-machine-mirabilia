@@ -15,102 +15,102 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/equipe-editoriale/index.html"
+from = "/equipe-editoriale/"
 to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/actualites/2023-11-14-on-mimesis-in-artificial-life/index.html"
+from = "/actualites/2023-11-14-on-mimesis-in-artificial-life/"
 to = "/posts/2023-11-14-on-mimesis-in-artificial-life/"
 
 [[redirects]]
-from = "/actualites/2023-10-21-human-digients-relations-in-the-lifecycle-of-software-objects-ted-chiang/index.html"
+from = "/actualites/2023-10-21-human-digients-relations-in-the-lifecycle-of-software-objects-ted-chiang/"
 to = "/posts/2023-10-21-human-digients-relations-in-the-lifecycle-of-software-objects-ted-chiang/"
 
 [[redirects]]
-from = "/actualites/2023-07-06-etranges-esprits/index.html"
+from = "/actualites/2023-07-06-etranges-esprits/"
 to = "/posts/2023-07-06-etranges-esprits/"
 
 [[redirects]]
-from = "/posts/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid-1/index.html"
+from = "/posts/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid-1/"
 to = "/posts/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid/"
 
 [[redirects]]
-from = "/actualites/2023-10-11-not-artificial-intelligences-but-non-human-digital-beings/index.html"
+from = "/actualites/2023-10-11-not-artificial-intelligences-but-non-human-digital-beings/"
 to = "/posts/2023-10-11-not-artificial-intelligences-but-non-human-digital-beings/"
 
 [[redirects]]
-from = "/actualites/2023-07-27-entomoludology-observing-insects-in-video-games/index.html"
+from = "/actualites/2023-07-27-entomoludology-observing-insects-in-video-games/"
 to = "/posts/2023-07-27-entomoludology-observing-insects-in-video-games/"
 
 [[redirects]]
-from = "/actualites/2023-10-18-des-non-humains/index.html"
+from = "/actualites/2023-10-18-des-non-humains/"
 to = "/posts/2023-10-18-des-non-humains/"
 
 [[redirects]]
-from = "/mentions-legales/index.html"
+from = "/mentions-legales/"
 to = "/legal/"
 
 [[redirects]]
-from = "/actualites/2023-07-14-a-digital-monster-metaphor/index.html"
+from = "/actualites/2023-07-14-a-digital-monster-metaphor/"
 to = "/posts/2023-07-14-a-digital-monster-metaphor/"
 
 [[redirects]]
-from = "/actualites/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid-1/index.html"
+from = "/actualites/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid-1/"
 to = "/posts/2023-12-06-loab-haunted-ai-or-creepypasta-or-cryptid/"
 
 [[redirects]]
-from = "/nicolas-nova/index.html"
+from = "/nicolas-nova/"
 to = "/equipe/nicolas-nova/"
 
 [[redirects]]
-from = "/actualites/2023-07-10-the-street-will-find-its-own-uses-for-these-monsters/index.html"
+from = "/actualites/2023-07-10-the-street-will-find-its-own-uses-for-these-monsters/"
 to = "/posts/2023-07-10-the-street-will-find-its-own-uses-for-these-monsters/"
 
 [[redirects]]
-from = "/actualites/2023-07-21-limping-rectangles-falling-cubes-and-clumsy-assemblages-karl-sims-evolved-creatures/index.html"
+from = "/actualites/2023-07-21-limping-rectangles-falling-cubes-and-clumsy-assemblages-karl-sims-evolved-creatures/"
 to = "/posts/2023-07-21-limping-rectangles-falling-cubes-and-clumsy-assemblages-karl-sims-evolved-creatures/"
 
 [[redirects]]
-from = "/actualites/2023-07-04-lovecraftian-ai-tentacle-monster/index.html"
+from = "/actualites/2023-07-04-lovecraftian-ai-tentacle-monster/"
 to = "/posts/2023-07-04-lovecraftian-ai-tentacle-monster/"
 
 [[redirects]]
-from = "/actualites/index.html"
+from = "/actualites/"
 to = "/posts/"
 
 [[redirects]]
-from = "/actualites/2023-10-27-chatgpt-jailbreak-prompts-personality/index.html"
+from = "/actualites/2023-10-27-chatgpt-jailbreak-prompts-personality/"
 to = "/posts/2023-10-27-chatgpt-jailbreak-prompts-personality/"
 
 [[redirects]]
-from = "/actualites/2023-07-26-les-robopoieses-d-andre-ourednik/index.html"
+from = "/actualites/2023-07-26-les-robopoieses-d-andre-ourednik/"
 to = "/posts/2023-07-26-les-robopoieses-d-andre-ourednik/"
 
 [[redirects]]
-from = "/actualites/2023-11-06-computer-virus-a-definition/index.html"
+from = "/actualites/2023-11-06-computer-virus-a-definition/"
 to = "/posts/2023-11-06-computer-virus-a-definition/"
 
 [[redirects]]
-from = "/actualites/2023-07-24-on-digital-folklore-1/index.html"
+from = "/actualites/2023-07-24-on-digital-folklore-1/"
 to = "/posts/2023-07-24-on-digital-folklore-1/"
 
 [[redirects]]
-from = "/actualites/2023-07-07-how-do-you-name-your-algorithm/index.html"
+from = "/actualites/2023-07-07-how-do-you-name-your-algorithm/"
 to = "/posts/2023-07-07-how-do-you-name-your-algorithm/"
 
 [[redirects]]
-from = "/actualites/2023-10-30-computer-and-networked-demons-daemons/index.html"
+from = "/actualites/2023-10-30-computer-and-networked-demons-daemons/"
 to = "/posts/2023-10-30-computer-and-networked-demons-daemons/"
 
 [[redirects]]
-from = "/actualites/2023-12-02-the-128-language-ouroborous-quine/index.html"
+from = "/actualites/2023-12-02-the-128-language-ouroborous-quine/"
 to = "/posts/2023-12-02-the-128-language-ouroborous-quine/"
 
 [[redirects]]
-from = "/actualites/2023-07-05-troglobytes-tiny-creatures-in-your-computer/index.html"
+from = "/actualites/2023-07-05-troglobytes-tiny-creatures-in-your-computer/"
 to = "/posts/2023-07-05-troglobytes-tiny-creatures-in-your-computer/"
 
 [[redirects]]
-from = "/actualites/2023-07-06-lovecraftian-ai-part-deux-the-shoggoth-metaphor/index.html"
+from = "/actualites/2023-07-06-lovecraftian-ai-part-deux-the-shoggoth-metaphor/"
 to = "/posts/2023-07-06-lovecraftian-ai-part-deux-the-shoggoth-metaphor/"
 
